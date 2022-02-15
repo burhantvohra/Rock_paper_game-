@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class ScoreTest {
 
-	@Test
+//	@Test
 //	public void testIncreaseWins() {
 //		Score score = new Score();
 //		score.increaseWins();
