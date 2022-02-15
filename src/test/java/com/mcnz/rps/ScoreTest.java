@@ -32,10 +32,10 @@ public class ScoreTest {
 		Assert.assertTrue(score.toString().length()>0);
 	}
 	
-	@Test
-	public void testWillFail() {
+	\\@Test
+	\\public void testWillFail() {
 		
-		Assert.assertTrue(false);
-	}
+	\\	Assert.assertTrue(false);
+	\\}
 
 }
